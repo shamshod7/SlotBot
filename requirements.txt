@@ -1,0 +1,4 @@
+redis
+pyTelegramBotAPI
+emoji
+
